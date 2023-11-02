@@ -18,7 +18,7 @@ setuptools.setup(
   include_package_data=True,
   long_description=long_description,
   long_description_content_type="text/markdown",
-  url="https://github.com/pypa/sampleproject",
+  url="https://github.com/HUSTAI/yantu-python-util",
   packages=setuptools.find_packages(),
   install_requires=[''],#安装所需要的库
   classifiers=[
