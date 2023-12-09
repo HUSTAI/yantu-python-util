@@ -5,7 +5,7 @@
 # ide： PyCharm
 # filename: operate_json_test.py
 def test_operate_json():
-    from yantu_python_utils.operate_json import write_json
+    from yantu_python_util.operate_json import write_json
     write_json(["tes"],filepath="../test/test.json")
     pass
 

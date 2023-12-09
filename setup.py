@@ -11,7 +11,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
   name="yantu_python_util",
-  version="0.0.6",
+  version="0.0.7",
   author="sunhb",
   author_email="598924626@qq.com",
   description="yantu python operate util",
